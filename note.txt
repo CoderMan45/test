@@ -4,4 +4,3 @@ This is the second sentence.
 This is the third sentence.
 This is to understand diff function.
 This is to understand git stash.
-This change has to be reverted.
