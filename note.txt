@@ -1,4 +1,4 @@
-This is a new text file.
+This is a new text file called 'note.txt'.
 This is the first sentence.
 This is the second sentence.
 This is the third sentence.
