@@ -6,3 +6,4 @@ This is to understand diff function.
 This is a line added on the remote repository.
 This is added on main branch.
 This is one the feature branch.
+This is also on the main branch.
